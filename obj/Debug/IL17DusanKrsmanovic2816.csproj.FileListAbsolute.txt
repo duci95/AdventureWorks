@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\bin\Debug\AdventureWorks2012.mdf
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\bin\Debug\AdventureWorks2012_log.ldf
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\bin\Debug\IL17DusanKrsmanovic2816.exe.config
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\bin\Debug\IL17DusanKrsmanovic2816.exe
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\bin\Debug\IL17DusanKrsmanovic2816.pdb
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\obj\Debug\IL17DusanKrsmanovic2816.Form1.resources
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\obj\Debug\IL17DusanKrsmanovic2816.Properties.Resources.resources
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\obj\Debug\IL17DusanKrsmanovic2816.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\obj\Debug\IL17DusanKrsmanovic2816.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\obj\Debug\IL17DusanKrsmanovic2816.csproj.CopyComplete
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\obj\Debug\IL17DusanKrsmanovic2816.exe
+C:\Users\ASUS\source\repos\IL17DusanKrsmanovic2816\IL17DusanKrsmanovic2816\obj\Debug\IL17DusanKrsmanovic2816.pdb
